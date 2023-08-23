@@ -1,0 +1,379 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-15 13:42+0300\n"
+"PO-Revision-Date: 2021-06-15 17:46+0700\n"
+"Last-Translator: Danstiv <dan7900@mail.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "alternative history"
+msgstr "Альтернативная история"
+
+msgid "Combat fiction"
+msgstr "Боевая фантастика"
+
+msgid "Epic fiction"
+msgstr "Эпическая фантастика"
+
+msgid "Heroic fiction"
+msgstr "Героическая фантастика"
+
+msgid "Detective fiction"
+msgstr "Детективная фантастика"
+
+msgid "Cyberpunk"
+msgstr "Киберпанк"
+
+msgid "Space fiction"
+msgstr "Космическая фантастика"
+
+msgid "Socio-psychological fiction"
+msgstr "Социально-психологическая фантастика"
+
+msgid "Horror and Mystery"
+msgstr "Ужасы и Мистика"
+
+msgid "Humorous fiction"
+msgstr "Юмористическая фантастика"
+
+msgid "Fantasy"
+msgstr "Фэнтези"
+
+msgid "Science fiction"
+msgstr "Научная Фантастика"
+
+msgid "Classic detective"
+msgstr "Классический детектив"
+
+msgid "Police detective"
+msgstr "Полицейский детектив"
+
+msgid "Action"
+msgstr "Боевик"
+
+msgid "Ironic detective"
+msgstr "Иронический детектив"
+
+msgid "Historical detective"
+msgstr "Исторический детектив"
+
+msgid "Spy detective"
+msgstr "Шпионский детектив"
+
+msgid "Crime detective"
+msgstr "Криминальный детектив"
+
+msgid "Political detective"
+msgstr "Политический детектив"
+
+msgid "Maniacs"
+msgstr "Маньяки"
+
+msgid "Cool detective"
+msgstr "Крутой детектив"
+
+msgid "Thriller"
+msgstr "Триллер"
+
+msgid "Detective"
+msgstr "Детектив"
+
+msgid "Classical prose"
+msgstr "Классическая проза"
+
+msgid "Historical prose"
+msgstr "Историческая проза"
+
+msgid "Contemporary prose"
+msgstr "Современная проза"
+
+msgid "Counterculture"
+msgstr "Контркультура"
+
+msgid "Russian classical prose"
+msgstr "Русская классическая проза"
+
+msgid "Soviet classical prose"
+msgstr "Советская классическая проза"
+
+msgid "Modern romance novels"
+msgstr "Современные любовные романы"
+
+msgid "Historical romance novels"
+msgstr "Исторические любовные романы"
+
+msgid "Action-packed romance novels"
+msgstr "Остросюжетные любовные романы"
+
+msgid "Short romance novels"
+msgstr "Короткие любовные романы"
+
+msgid "Erotic"
+msgstr "Эротика"
+
+msgid "Western"
+msgstr "Вестерн"
+
+msgid "Historical adventures"
+msgstr "Исторические приключения"
+
+msgid "Adventures about Indians"
+msgstr "Приключения про индейцев"
+
+msgid "Nautical adventures"
+msgstr "Морские приключения"
+
+msgid "Travel and geography"
+msgstr "Путешествия и география"
+
+msgid "Nature and animals"
+msgstr "Природа и животные"
+
+msgid "Adventures"
+msgstr "Приключения"
+
+msgid "Story"
+msgstr "Сказка"
+
+msgid "Children's poems"
+msgstr "Детские стихи"
+
+msgid "Children's prose"
+msgstr "Детская проза"
+
+msgid "Children's fiction"
+msgstr "Детская фантастика"
+
+msgid "Children's action-packed"
+msgstr "Детские остросюжетные"
+
+msgid "Children's adventures"
+msgstr "Детские приключения"
+
+msgid "Children's educational literature"
+msgstr "Детская образовательная литература"
+
+msgid "Children's literature"
+msgstr "Детская литература"
+
+msgid "Poetry"
+msgstr "Поэзия"
+
+msgid "Dramaturgy"
+msgstr "Драматургия"
+
+msgid "Ancient literature"
+msgstr "Античная литература"
+
+msgid "European ancient literature"
+msgstr "Европейская старинная литература"
+
+msgid "Old Russian literature"
+msgstr "Древнерусская литература"
+
+msgid "Ancient oriental literature"
+msgstr "Древневосточная литература"
+
+msgid "Myths. Legends. Epos"
+msgstr "Мифы. Легенды. Эпос"
+
+msgid "History"
+msgstr "История"
+
+msgid "Psychology"
+msgstr "Психология"
+
+msgid "Culturology"
+msgstr "Культурология"
+
+msgid "Religious Studies"
+msgstr "Религиоведение"
+
+msgid "Philosophy"
+msgstr "Философия"
+
+msgid "Politics"
+msgstr "Политика"
+
+msgid "Business literature"
+msgstr "Деловая литература"
+
+msgid "Jurisprudence"
+msgstr "Юриспруденция"
+
+msgid "Linguistics"
+msgstr "Языкознание"
+
+msgid "Medicine"
+msgstr "Медицина"
+
+msgid "Physics"
+msgstr "Физика"
+
+msgid "Mathematics"
+msgstr "Математика"
+
+msgid "Chemistry"
+msgstr "Химия"
+
+msgid "Biology"
+msgstr "Биология"
+
+msgid "Technical science"
+msgstr "Технические науки"
+
+msgid "Scientific literature"
+msgstr "Научная литература"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Programming"
+msgstr "Программирование"
+
+msgid "Computer hardware"
+msgstr "Компьютерное \"железо\" (аппаратное обеспечение)"
+
+msgid "Programs"
+msgstr "Программы"
+
+msgid "Database"
+msgstr "Базы данных"
+
+msgid "OS and Networks"
+msgstr "ОС и Сети"
+
+msgid "Near-computer literature"
+msgstr "Околокомпьютерная литература"
+
+msgid "Encyclopedias"
+msgstr "Энциклопедии"
+
+msgid "Dictionaries"
+msgstr "Словари"
+
+msgid "Directories"
+msgstr "Справочники"
+
+msgid "Manuals"
+msgstr "Руководства"
+
+msgid "Reference literature"
+msgstr "Справочная литература"
+
+msgid "Biographies and Memoirs"
+msgstr "Биографии и Мемуары"
+
+msgid "Journalism"
+msgstr "Публицистика"
+
+msgid "Criticism"
+msgstr "Критика"
+
+msgid "Art & Design"
+msgstr "Искусство и Дизайн"
+
+msgid "Documental literature"
+msgstr "Документальная литература"
+
+msgid "Religion"
+msgstr "Религия"
+
+msgid "Esoterics"
+msgstr "Эзотерика"
+
+msgid "Self improvement"
+msgstr "Самосовершенствование"
+
+msgid "Religious literature"
+msgstr "Религиозная литература"
+
+msgid "Jokes"
+msgstr "Анекдоты"
+
+msgid "Humorous prose"
+msgstr "Юмористическая проза"
+
+msgid "Humorous poems"
+msgstr "Юмористические стихи"
+
+msgid "Humor"
+msgstr "Юмор"
+
+msgid "Cooking"
+msgstr "Кулинария"
+
+msgid "Pets"
+msgstr "Домашние животные"
+
+msgid "Hobbies and crafts"
+msgstr "Хобби и ремёсла"
+
+msgid "Entertainment"
+msgstr "Развлечения"
+
+msgid "Health"
+msgstr "Здоровье"
+
+msgid "Garden"
+msgstr "Сад и огород"
+
+msgid "Do it yourself"
+msgstr "Сделай сам"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Erotic, Sex"
+msgstr "Эротика, Секс"
+
+msgid "Housekeeping"
+msgstr "Домоводство"
+
+#, python-brace-format
+msgid "Element {element_name} not found"
+msgstr "Элемент {element_name} не найден"
+
+#, python-brace-format
+msgid "Attribute {attribute_name} not found"
+msgstr "Атрибут {attribute_name} не найден"
+
+msgid "Translator"
+msgstr "Переводчик"
+
+msgid "Translators"
+msgstr "Переводчики"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Original language"
+msgstr "Язык оригинала"
+
+msgid "Date of writing"
+msgstr "Дата написания"
+
+msgid "Annotation"
+msgstr "Аннотация"
+
+msgid "Original metadata"
+msgstr "Метаданные оригинала"
+
+msgid "Edition information"
+msgstr "Информация об издании"
+
+msgid "Table of contents"
+msgstr "Оглавление"

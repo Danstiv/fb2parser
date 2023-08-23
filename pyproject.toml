@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fb2parser"
+version = "0.0.1"
+authors = [
+  { name="Danstiv", email="danstiv@yandex.ru" },
+]
+description = "FB2 parser"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "beautifulsoup4==4.12.2",
+]
+
+[project.optional-dependencies]
+optional = [
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Danstiv/fb2parser"
+"Bug Tracker" = "https://github.com/Danstiv/fb2parser/issues"
